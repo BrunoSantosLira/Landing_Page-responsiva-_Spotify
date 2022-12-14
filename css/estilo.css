@@ -5,7 +5,7 @@
 
 html,body,#home{
     height: 100%;
-    
+    overflow-x: hidden;
 }/*Para Alinhar no meio*/
 
 
